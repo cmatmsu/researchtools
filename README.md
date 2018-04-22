@@ -18,17 +18,18 @@ This is being cobbled together using OSX Capitan 10.11.6 and it presupposes that
     * tesseract
     * gnu coreutils
     * par
-* vim and/or macvim (Just about any text editor will do, just with a different workflow)
+    * vim and/or macvim
+* vim plugins (Just about any text editor will do, just with a different workflow)
     * [vim-pandoc](https://github.com/vim-pandoc/vim-pandoc)
     * [vim-pandoc-syntax](https://github.com/vim-pandoc/vim-pandoc-syntax)
     * [ack.vim](https://github.com/mileszs/ack.vim)
-    * optional vim plugins
-            * [vim-airline](https://github.com/vim-airline/vim-airline)
-            * [base16-vim](https://github.com/chriskempson/base16-vim/)
-                     * see [base16](https://github.com/chriskempson/base16) for more info and for integrating into your shell or other relevant programs
-            * [ultisnips](https://github.com/SirVer/ultisnips)
-            * [vim-snippets](https://github.com/honza/vim-snippets)
-            * [vimcompletesme](https://github.com/ajh17/VimCompletesMe)
-            * [vim-markdown](https://github.com/tpope/vim-markdown)
-            * [vim-markdownfootnotes](https://github.com/vim-pandoc/vim-markdownfootnotes)
+* optional vim plugin
+    * [vim-airline](https://github.com/vim-airline/vim-airline)
+    * [base16-vim](https://github.com/chriskempson/base16-vim/)
+    * see [base16](https://github.com/chriskempson/base16) for more info and for integrating into your shell or other relevant programs
+    * [ultisnips](https://github.com/SirVer/ultisnips)
+    * [vim-snippets](https://github.com/honza/vim-snippets)
+    * [vimcompletesme](https://github.com/ajh17/VimCompletesMe)
+    * [vim-markdown](https://github.com/tpope/vim-markdown)
+    * [vim-markdownfootnotes](https://github.com/vim-pandoc/vim-markdownfootnotes)
     
